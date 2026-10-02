@@ -33,10 +33,7 @@
 
 I'm **Daniyal Hayat**, a developer focused on building modern digital experiences across **web development, AI-powered applications, and UI/UX**. I enjoy turning ideas into functional, polished products where **code meets creativity**.
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7DD3FC&center=true&vCenter=true&width=420&height=40&lines=💻+Build;🎨+Design;🤖+Experiment+with+AI;⚡+Improve;🚀+Ship" alt="Workflow typing"/>
 
-</div>
 
 
 | Area | Focus |
@@ -61,10 +58,22 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 
 <div align="center">
 
-<a href="https://github.com/DotDaniyal/Daniyal-Hayat-Portfolio"><img src="./assets/card-portfolio.svg" width="49%" alt="Daniyal Hayat Portfolio"/></a>
-<a href="https://github.com/DotDaniyal/DNYL-EYEWEAR"><img src="./assets/card-dnyl.svg" width="49%" alt="DNYL EYEWEAR"/></a>
-<a href="https://github.com/DotDaniyal/FARYAL-FC"><img src="./assets/card-faryal.svg" width="49%" alt="FARYAL FC"/></a>
-<a href="https://github.com/DotDaniyal/darul-ifta-irshad-us-saileen"><img src="./assets/card-darul.svg" width="49%" alt="Darul Ifta Irshad-us-Saileen"/></a>
+<a href="https://github.com/DotDaniyal/Daniyal-Hayat-Portfolio">
+  👨‍💻 Daniyal Hayat Portfolio
+</a>
+
+<a href="https://github.com/DotDaniyal/DNYL-EYEWEAR">
+  👓 DNYL Eyewear
+</a>
+
+<a href="https://github.com/DotDaniyal/FARYAL-FC">
+  ⚽ FARYAL FC
+</a>
+
+<a href="https://github.com/DotDaniyal/darul-ifta-irshad-us-saileen">
+  📖 Darul Ifta Irshad-us-Saileen
+</a>
+
 
 <br/>
 
