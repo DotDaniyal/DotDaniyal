@@ -23,11 +23,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+modern+web+experiences;UI%2FUX+%7C+AI+%7C+Full-Stack;Let's+build+something+great+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<img src="/divider.svg" width="100%" alt=""/>
-
 </div>
-
-<img src="/h-about.svg" width="100%" alt="About Me"/>
 
 <div align="center">
   <img src="/terminal.svg" width="92%" alt="Animated terminal introducing Daniyal Hayat"/>
@@ -40,10 +36,8 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7DD3FC&center=true&vCenter=true&width=420&height=40&lines=💻+Build;🎨+Design;🤖+Experiment+with+AI;⚡+Improve;🚀+Ship" alt="Workflow typing"/>
 
-<img src="/divider.svg" width="100%" alt=""/>
 </div>
 
-<img src="/h-focus.svg" width="100%" alt="What I Focus On"/>
 
 | Area | Focus |
 |---|---|
@@ -53,7 +47,6 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 | ⚡ **Frontend** | Interactive and responsive user experiences |
 | 🚀 **Product Building** | Turning ideas into complete projects |
 
-<img src="/h-tech.svg" width="100%" alt="Technologies & Tools"/>
 
 <div align="center">
 
@@ -63,11 +56,8 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools"/>
 
-<img src="/divider.svg" width="100%" alt=""/>
 
 </div>
-
-<img src="/h-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
 
@@ -80,11 +70,9 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 
 🌐 **Live portfolio:** [daniyal-hayat-portfolio.vercel.app](https://daniyal-hayat-portfolio.vercel.app/)
 
-<img src="/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<img src="/h-stats.svg" width="100%" alt="GitHub Statistics"/>
 
 <div align="center">
 
@@ -103,11 +91,9 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 
 <img src="https://github-profile-trophy.vercel.app/?username=DotDaniyal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies"/>
 
-<img src="/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<img src="/h-snake.svg" width="100%" alt="Contribution Snake"/>
 
 <div align="center">
 <picture>
@@ -116,7 +102,6 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 </picture>
 </div>
 
-<img src="/h-journey.svg" width="100%" alt="My Developer Philosophy"/>
 
 > **Code meets creativity.** Great digital products are not only about writing code.
 
@@ -124,13 +109,11 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
   <img src="/journey.svg" width="100%" alt="Understand, Design, Build, Test and improve, Ship"/>
 </div>
 
-<img src="/h-direction.svg" width="100%" alt="Current Direction"/>
 
 <div align="center">
   <img src="/skills.svg" width="85%" alt="Animated skill bars"/>
 </div>
 
-<img src="/h-connect.svg" width="100%" alt="Find Me Online"/>
 
 <div align="center">
 
