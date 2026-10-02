@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:111827&height=200&section=header&text=Daniyal%20Hayat&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Code%20meets%20creativity&descSize=20&descAlignY=60" width="100%"/>
 
 <!-- Canvas-style animated particle banner (SVG) -->
-<img src="./assets/hero-canvas.svg" width="100%" alt="Animated particle banner"/>
+<img src="./hero-canvas.svg" width="100%" alt="Animated particle banner"/>
 
 <br/>
 
 <!-- Favicon-style logo + profile image -->
-<img src="./assets/favicon.svg" width="72" alt="DH logo"/>
+<img src="./favicon.svg" width="72" alt="DH logo"/>
 &nbsp;&nbsp;
 <img src="https://github.com/DotDaniyal.png?size=200" width="110" style="border-radius:50%" alt="Daniyal Hayat"/>
 
