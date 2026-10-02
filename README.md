@@ -94,22 +94,6 @@ I'm **Daniyal Hayat**, a developer focused on building modern digital experience
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DotDaniyal&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=7dd3fc&line=0e75b6&point=e0f2fe&area_color=0e75b6" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DotDaniyal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies"/>
-
-
-</div>
-
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DotDaniyal/DotDaniyal/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DotDaniyal/DotDaniyal/output/github-snake.svg" width="100%"/>
-</picture>
-</div>
 
 
 > **Code meets creativity.** Great digital products are not only about writing code.
